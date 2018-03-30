@@ -7,7 +7,7 @@ client.on("ready", () => {
     client.user.setGame(`on ${client.guilds.size} servers`);
 });
 
-client.login('MzMyOTIyNzA4MDY3MzUyNTc2.DEPN-g.OvgPYkInAWpPp6zlxVQVK2FZtpw');
+client.login('_');
 client.on("ready", () => {
     console.log("ya gotov")
 })
