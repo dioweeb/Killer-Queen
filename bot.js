@@ -88,7 +88,7 @@ client.on("message", (message) => {
         }
         else {
             if (resu == 1) {
-                message.channel.send("автар идеот"), (err) => (console.error, message.channel.send("Что-то пошло не так"));
+                message.channel.send("Что-то пошло не так"), (err) => (console.error, message.channel.send("Что-то пошло не так"));
             }
         }
     }
